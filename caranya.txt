@@ -1,0 +1,17 @@
+1. Download Termux Link => https://sfile.mobi/1IicXztKk807
+2. Extrak file script yang kalian download 
+2. Ketik Ditermux 
+        pkg upgrade && pkg update 
+        termux-setup-storage (izinkan termux mengelola penyimpanan)
+3. Install program php di termux caranya
+        pkg install php
+        pkg install toilet
+4. Masuk ke script yang di download tadi caranya
+        cd storage/shared/Download/nama folder
+5. jalan kan script
+        php bot.php
+        
+     selamat mencoba 
+  informasi:
+            •jangan gunakan termux dari google play store dikarenakan eror 
+            •jangan dijual
